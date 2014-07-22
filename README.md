@@ -1,3 +1,8 @@
+[![Dependency Status](https://david-dm.org/myTerminal/down-to-html.svg)](https://david-dm.org/myTerminal/down-to-html/)
+[![devDependency Status](https://david-dm.org/myTerminal/down-to-html/dev-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=devDependencies)
+[![peer Dependency Status](https://david-dm.org/myTerminal/down-to-html/peer-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=peerDependencies)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 down-to-html
 ============
 
