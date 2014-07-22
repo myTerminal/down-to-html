@@ -4,6 +4,7 @@
   "description": "A semi-LIVE preview for Markdown to HTML",
   "main": "index.js",
   "scripts": {
+    "install": "node installer.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "grunt start"
   },
@@ -11,11 +12,14 @@
     "markdown",
     "html"
   ],
-  "author": "Mohammed Ismail Ansari",
-  "license": "BSD-2-Clause",
+  "dependencies": {
+    "package-script": "0.0.7"
+  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-markdown": "~0.6.1",
     "grunt-contrib-watch": "~0.6.1"
-  }
+  },
+  "author": "Mohammed Ismail Ansari",
+  "license": "BSD-2-Clause"
 }
