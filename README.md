@@ -1,15 +1,14 @@
+# down-to-html
+
 [![Dependency Status](https://david-dm.org/myTerminal/down-to-html.svg)](https://david-dm.org/myTerminal/down-to-html/)
 [![devDependency Status](https://david-dm.org/myTerminal/down-to-html/dev-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/down-to-html/peer-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=peerDependencies)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-
-down-to-html
-============
+[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 A semi-LIVE preview for Markdown to HTML
 
-How to use
-----------
+## How to use
 
 1. Obtain the repository with `git clone` or download it as an archive.
 2. Run an `npm install` at the root of the project.
@@ -17,13 +16,11 @@ How to use
 
 One needs to place *.md* files within the *src* directory next to the *demo.md* file, and the output files will be created in *output/src* directory, next to the *demo.html* file.
 
-One-shot conversion
--------------------
+## One-shot conversion
 
 To perform a one-shot conversion as opposed to a continous conversion, one can run `grunt` or `grunt build` at the root and find the updated output files in the output directory.
 
-Not a library
--------------
+## Not a library
 
 Please note that this is not a library, just a pre-configured project for Markdown to HTML conversion.
 
