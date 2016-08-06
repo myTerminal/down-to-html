@@ -2,7 +2,7 @@
 
 [![Dependency Status](https://david-dm.org/myTerminal/down-to-html.svg)](https://david-dm.org/myTerminal/down-to-html/)
 [![devDependency Status](https://david-dm.org/myTerminal/down-to-html/dev-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/down-to-html/peer-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=peerDependencies)
+[![peer Dependency Status](https://david-dm.org/myTerminal/down-to-html/peer-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=peerDependencies)  
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
