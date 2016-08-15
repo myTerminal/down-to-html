@@ -2,10 +2,8 @@
   "name": "down-to-html",
   "version": "0.9.0",
   "description": "A semi-LIVE preview for Markdown to HTML",
-  "main": "index.js",
   "scripts": {
     "install": "node installer.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "grunt start"
   },
   "keywords": [
@@ -20,6 +18,10 @@
     "grunt-markdown": "~0.6.1",
     "grunt-contrib-watch": "~0.6.1"
   },
-  "author": "Mohammed Ismail Ansari",
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myTerminal/down-to-html"
+  },
   "license": "GPL-3.0"
 }
