@@ -23,5 +23,9 @@
     "type": "git",
     "url": "https://github.com/myTerminal/down-to-html"
   },
+  "bugs": {
+    "url": "https://github.com/myTerminal/down-to-html/issues"
+  },
+  "homepage": "https://github.com/myTerminal/down-to-html#readme",
   "license": "GPL-3.0"
 }
