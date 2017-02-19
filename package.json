@@ -4,6 +4,7 @@
   "description": "A semi-LIVE preview for Markdown to HTML",
   "scripts": {
     "install-globals": "npm install -g grunt-cli",
+    "install": "npm run install-globals",
     "start": "grunt start"
   },
   "keywords": [
