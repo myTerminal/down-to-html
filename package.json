@@ -3,16 +3,13 @@
   "version": "0.9.0",
   "description": "A semi-LIVE preview for Markdown to HTML",
   "scripts": {
-    "install": "node installer.js",
+    "install-globals": "npm install -g grunt-cli",
     "start": "grunt start"
   },
   "keywords": [
     "markdown",
     "html"
   ],
-  "dependencies": {
-    "package-script": "0.0.7"
-  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-markdown": "~0.6.1",
