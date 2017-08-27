@@ -3,8 +3,7 @@
   "version": "0.9.0",
   "description": "A semi-LIVE preview for Markdown to HTML",
   "scripts": {
-    "install-globals": "npm install -g grunt-cli",
-    "install": "npm run install-globals",
+    "grunt": "grunt",
     "start": "grunt start"
   },
   "keywords": [
@@ -12,9 +11,9 @@
     "html"
   ],
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-markdown": "~0.6.1",
-    "grunt-contrib-watch": "~0.6.1"
+    "grunt": "1.0.1",
+    "grunt-markdown": "0.7.0",
+    "grunt-contrib-watch": "1.0.0"
   },
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
   "repository": {
