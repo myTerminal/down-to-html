@@ -14,11 +14,11 @@ A semi-LIVE preview for Markdown to HTML
 2. Run an `npm install` at the root of the project.
 3. Start the watcher with `npm start` or `grunt watch`.
 
-One needs to place *.md* files within the *src* directory next to the *demo.md* file, and the output files will be created in *output/src* directory, next to the *demo.html* file.
+One needs to place *.md* files within the *src* directory next to the *demo.md* file and the output files will be created in *output/src* directory, next to the *demo.html* file.
 
 ## One-shot conversion
 
-To perform a one-shot conversion as opposed to a continous conversion, one can run `grunt` or `grunt build` at the root and find the updated output files in the output directory.
+To perform a one-shot conversion as opposed to a continuous conversion, one can run `grunt` or `grunt build` at the root and find the updated output files in the output directory.
 
 ## Not a library
 
