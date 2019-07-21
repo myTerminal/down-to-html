@@ -4,7 +4,7 @@
 [![devDependency Status](https://david-dm.org/myTerminal/down-to-html/dev-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/down-to-html/peer-status.svg)](https://david-dm.org/myTerminal/down-to-html#info=peerDependencies)  
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A semi-LIVE preview for Markdown to HTML
 
